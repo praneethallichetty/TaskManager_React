@@ -1,0 +1,26 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  background-color: black;
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  padding: 10px 20px;
+  text-decoration: underline;
+
+}
+
+p {
+  font-family: sans-serif;
+}
+
+
+h2 {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+
